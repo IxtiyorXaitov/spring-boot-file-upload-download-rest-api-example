@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.example.filedemo.property.FileStorageProperties",
+      "sourceType": "com.example.filedemo.property.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.example.filedemo.property.FileStorageProperties"
+    }
+  ],
+  "hints": []
+}
